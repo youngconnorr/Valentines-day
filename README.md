@@ -1,3 +1,3 @@
 # Will you be my Valentine? 💕
 
-A website made for you to ask your crush if they want to be your valentine. ❤️
+An interactive website made from Java, HTML, and CSS that asks a special person to be your Valentine ❤️.
